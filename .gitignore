@@ -1,0 +1,15 @@
+# In your SmartVision folder, create .gitignore file:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.weights
+yolov8n.pt
